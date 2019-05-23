@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'blog',
     'blog1',
     'blog2',
+    'Blog_de_Anto',
 ]
 
 MIDDLEWARE = [
@@ -106,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'es-ar'
 
 TIME_ZONE = 'America/Argentina/Mendoza'
 
